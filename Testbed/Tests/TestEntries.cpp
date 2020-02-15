@@ -71,9 +71,11 @@
 #include "VaryingRestitution.h"
 #include "VerticalStack.h"
 #include "Web.h"
+#include "InvPend.h"
 
 TestEntry g_testEntries[] =
 {
+	{"Inv Pend test", InvPendTest::Create},
 	{"Shape Cast", ShapeCast::Create },
 	{"Time of Impact", TimeOfImpact::Create},
 	{"Character Collision", CharacterCollision::Create},

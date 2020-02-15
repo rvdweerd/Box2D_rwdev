@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\HelloWorld",
     "\\Testbed"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\HelloWorld\\HelloWorld.cpp",
   "PreviewInSolutionExplorer": false
 }
