@@ -1,5 +1,3 @@
-![Box2D Logo](http://box2d.org/images/icon.gif)
-
 Box2D physics engine for simulating an Inverse Pendulum & testing control laws.
 
 ![Screen demo](InversePendulumManual.gif)
